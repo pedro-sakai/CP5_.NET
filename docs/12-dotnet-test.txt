@@ -1,0 +1,9 @@
+C:\Users\labsfiap\Downloads\EletronicosStore>dotnet test
+Restore complete (0.8s)
+  EletronicosStore.Domain net10.0 succeeded (0.1s) → EletronicosStore.Domain\bin\Debug\net10.0\EletronicosStore.Domain.dll
+  EletronicosStore.Application net10.0 succeeded (0.2s) → EletronicosStore.Application\bin\Debug\net10.0\EletronicosStore.Application.dll
+  EletronicosStore.Domain.Tests net10.0 succeeded (0.2s) → EletronicosStore.Domain.Tests\bin\Debug\net10.0\EletronicosStore.Domain.Tests.dll
+  EletronicosStore.Application.Tests net10.0 succeeded (0.2s) → EletronicosStore.Application.Tests\bin\Debug\net10.0\EletronicosStore.Application.Tests.dll
+
+Test summary: total: 18, failed: 0, succeeded: 18, skipped: 0, duration: 0.8s
+Build succeeded in 2.1s

@@ -1,0 +1,37 @@
+{
+  "page": 1,
+  "pageSize": 3,
+  "totalItems": 6,
+  "totalPages": 2,
+  "items": [
+    {
+      "id": 1,
+      "nome": "Mouse",
+      "descricao": "Mouse Gamer Logitech",
+      "preco": 990,
+      "estoque": 20,
+      "categoriaId": 1,
+      "categoriaNome": "Equipamentos"
+    },
+    {
+      "id": 21,
+      "nome": "Teclado",
+      "descricao": "Teclado Mecânico G915 TKL",
+      "preco": 980,
+      "estoque": 50,
+      "categoriaId": 1,
+      "categoriaNome": "Equipamentos"
+    },
+    {
+      "id": 22,
+      "nome": "Headset",
+      "descricao": "Headset Logitech G PRO X2 Wireless",
+      "preco": 1250,
+      "estoque": 25,
+      "categoriaId": 1,
+      "categoriaNome": "Equipamentos"
+    }
+  ],
+  "hasPrevious": false,
+  "hasNext": true
+}

@@ -1,0 +1,6 @@
+@EletronicosStore.API_HostAddress = http://localhost:5273
+
+GET {{EletronicosStore.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

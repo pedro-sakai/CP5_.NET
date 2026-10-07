@@ -1,0 +1,15 @@
+{
+  "type": "about:blank",
+  "title": "Limite de requisições excedido",
+  "status": 429,
+  "detail": "Você atingiu o limite de 10 requisições por minuto para este endpoint. Tente novamente em instantes.",
+  "instance": "/api/Produtos"
+}
+
+--- Response headers ---
+content-type: application/json; charset=utf-8
+date: Wed,07 Oct 2026 11:26:20 GMT
+retry-after: 60
+server: Kestrel
+transfer-encoding: chunked
+x-ratelimit-limit: 10

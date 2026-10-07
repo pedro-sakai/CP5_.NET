@@ -1,0 +1,20 @@
+{
+  "status": "Healthy",
+  "totalDurationMs": 27.66,
+  "checks": [
+    {
+      "name": "self",
+      "status": "Healthy",
+      "durationMs": 1.05,
+      "description": "A API está em execução.",
+      "error": null
+    },
+    {
+      "name": "oracle_database",
+      "status": "Healthy",
+      "durationMs": 19.95,
+      "description": null,
+      "error": null
+    }
+  ]
+}

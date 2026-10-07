@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "nome": "Mouse",
+    "descricao": "Mouse Gamer Logitech",
+    "preco": 990,
+    "estoque": 20,
+    "categoriaId": 1,
+    "categoriaNome": "Equipamentos"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "page": 2,
+  "pageSize": 3,
+  "totalItems": 6,
+  "totalPages": 2,
+  "items": [
+    {
+      "id": 23,
+      "nome": "Monitor",
+      "descricao": "Monitor Samsung Odyssey G9",
+      "preco": 7440,
+      "estoque": 10,
+      "categoriaId": 1,
+      "categoriaNome": "Equipamentos"
+    },
+    {
+      "id": 24,
+      "nome": "Placa de vídeo",
+      "descricao": "Placa de vídeo Geforce RTX 5090",
+      "preco": 25000,
+      "estoque": 5,
+      "categoriaId": 1,
+      "categoriaNome": "Equipamentos"
+    },
+    {
+      "id": 25,
+      "nome": "Processador",
+      "descricao": "Processador AMD Ryzen 7 9850X3D",
+      "preco": 6450,
+      "estoque": 12,
+      "categoriaId": 1,
+      "categoriaNome": "Equipamentos"
+    }
+  ],
+  "hasPrevious": true,
+  "hasNext": false
+}
